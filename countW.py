@@ -28,5 +28,16 @@ for x in range(k):
 
 
 df=pd.Series(words)
-df.to_csv(name[0:-4]+".csv")
+words=dict()
+for a in df.keys():
+    if df[a] in words.keys():
+        words[df[a]].append(a)
+    else:
+        words[df[a]]=[a]
+
+
+x=pd.Series(words)
+
+x.to_csv(name[0:-4]+"A.csv")
+#df.to_csv(name[0:-4]+".csv")
 
