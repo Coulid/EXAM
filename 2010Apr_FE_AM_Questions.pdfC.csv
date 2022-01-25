@@ -1,0 +1,82 @@
+0
+Q80 Question Selection All questions are compulsory Examination Time 930  1200 150 minutes  Instructions 1 Use a pencil If you need to change an answer erase your previous answer completely and neatly  Wipe away any eraser debris 2 Mark your examinee information and your answers in accordance with the instructions below  Your answer will not be graded if you do not mark properly  Do not mark nor write on the answer sheet outside of the prescribed places  1Examinee Number Write your examinee number in the space provided and mark the appropriate space below each digit 2 Date of Birth Write your date of birth in numbers exactly as it is printed on your examination admission card and mark the appropriate space below each digit 3 Answers Select one answer a through d for each question Mark your answers as shown in the following sample question  Sample Question Q1 In which month is the spring Fundamental IT Engineer Examination conducted ?
+A   C D   Do not open the exam booklet until instructed to do so Inquiries about the exam questions will not be answered   2 Symbols commonly used in questions   Unless otherwise noted in each question the logic gate symbols are applied as shown in the table below   Graphic symbol  Explanation   AND gate   NAND gate   OR gate   NOR gate   Exclusive OR XOR gate   Exclusive NOR gate   Buffer   NOT gate  Tristate buffer  Note The small circle or bubble on either the input or output terminal shows inversion or negation of the logic state          Company names and product names appearing in the examination questions are trademarks or registered trademarks of their respective companies Note that the  and  symbols are not used within    3 Q1 When the equation 100n34n44n holds which of the following represents 26n ?
+In the truth table shown below which of the following is the correct combination of output values x1 x2 and x3 ?
+Which of the following expressions can be used to calculate the quarter number for example 1 for January through March for the nth month of the year ?
+When the resulting value of the expression 13163111629163 is represented in binary how many 1 bits are included in the binary value ?
+When the simultaneous equations shown below hold for the Boolean variables w x y and z which of the following is the correct solution ?
+Tictactoe also known as noughts and crosses is a popular game for two players O and X who take turns marking the spaces in a 33 grid  The player who succeeds in placing three respective marks in a horizontal vertical or diagonal row wins the game  For example the player O wins on the tictactoe board shown below  OOOOOXXXX How many possible combinations of moves are there to fill all of the nine spaces regardless of wins and losses ?
+When three cards are randomly selected at a time from a standard deck of 52 playing cards what is the probability that all of these three cards are in the same suit heart diamond spade or club ?
+When a linked list is used for queue implementation which of the following structures provides the most efficient and effective way to perform both insert and delete operations ?
+Which of the following is an appropriate description concerning a binary search tree whose node values are 17 6 19 3 22 and 32 ?
+In a binary tree   any node that has two null children is called a leaf node and   the other nodes except leaf nodes have one or two nonnull children  When the number of nodes including leaf nodes is n how many null children are included in the binary tree ?
+Which of the following data structures can be referred to as a lastin firstout operation ?
+When the binary search algorithm is applied to the list of data sorted in ascending order as shown below how many comparisons are needed to find the fact that 104 is not in the list ?
+When the expression 43211111xxxxnx1 is calculated which of the following should be inserted in the process box  in the flowchart shown below ?
+Which of the following stands for the processor architecture in which a single stream of instructions can operate on multiple pieces of data in parallel ?
+Which of the following is classified as an internal interrupt ?
+When a memory chip has 8 data lines and 9 address lines what is the maximum number of bytes that can be stored in the chip ?
+Which of the following is an optical disc that uses organic dye for the recording layer of the storage media and makes the traces of burning by laser light called pits to record the data ?
+Which of the following is an appropriate explanation of memorymapped IO ?
+Which of the following is the most appropriate explanation of grid computing ?
+As shown in the figure this configuration consists of two systems  One performs online processing as an active system and the other prepares for failure of the active system as a standby system  The standby system usually performs batch processing  What is this system configuration called ?
+As shown in the figure one server three clients and two printers are connected to the LAN  This system transfers the data on the server to a printer based on instructions from a client  When the availability of each device is as shown in the table which of the following is the formula indicating the availability of this system ?
+The system operations model is shown in the figure  Which of the following is the appropriate combination of the expressions indicating MTBF and MTTR in this system ?
+A certain computer system runs in a multiprogramming environment using a nonpreemptive shortest job first algorithm  In this system four processes A B C and D arrive sequentially in the process queue every 1 millisecond  The table shown below includes estimated execution time for each process for example process A uses CPU IO and then CPU sequentially for 4 5 and 4 milliseconds respectively  Which of the following is the third completed process ?
+In a certain file server system it takes 15 ms to process one transaction if the target data is available in the disk cache  If the target data is stored in the hard disk in lieu of the disk cache additional 75 ms for disk access is required to process it  When twothirds of the number of transactions can be processed by using the disk cache data only how many transactions per second on average can be consecutively handled in this system ?
+There is a virtual memory system in which the FIFO or LRU page replacement algorithm can be used as a page replacement algorithm  There are 4 page frames available in real memory and a process makes the list of page references as follows 2364631246  How many page faults occur during execution of this process using the FIFO and LRU page replacement algorithms separately ?
+Which of the following appropriately describes the role of task management ?
+Which of the following is the appropriate explanation of the hash method ?
+Which of the following groups of CASE tools is used only in a particular stage of the software development life cycle and is designed to work cooperatively with other CASE tools in an integrated and consolidated environment ?
+Which of the following is the appropriate explanation of DRAM ?
+As shown in the floor layout below there are three sensors S1 S2 and S3 that control a light bulb in the middle of a hallway  The sensor S1 is a light sensor that generates the output signal 0 only when sunlight or some other external light source is detected  In case of no light the output signal of S1 is 1  The two sensors S2 and S3 are infrared sensors that generate the output signal 0 only when either S2 or S3 detects the movement of a thermal target in its effective range  If no movement is detected the output signal is 1  Which of the following logic circuits can be used to control a switch of the light bulb ?
+The half adder in the diagram below adds onedigit binary numbers x and y and produces z the first digit of the sum and c carry as output  Which of the following is the appropriate combination of elements A and B ?
+Which of the following is an appropriate usage of a radio button that is a GUI component ?
+Which of the following is a human interface design that is intended to improve the consistency of operations ?
+Which of the following SQL statements corresponds to the projection operation of the relational algebra that can extract only the column Continent from the table Country and eliminate duplicates from the records returned ?
+Among the ACID Atomicity Consistency Isolation Durability properties of transactions which of the following is the appropriate description concerning atomicity ?
+When a database on a clientserver system is accessed which of the following is the function that can reduce the network load by preparing the instruction groups beforehand that are frequently used on the server ?
+Which of the following is the appropriate description concerning exclusive control in a database ?
+Which of the following appropriately describes a characteristic of distributed database systems in comparison to centralized database systems ?
+Which of the following protocols can be used to temporarily assign an IP address leased from the pool to the host that asks for an address or to repeatedly assign the same IP address to the host according to the MAC address of the host ?
+Which of the following can be used to interconnect multiple LANs on the network layer layer 3 of the OSI basic reference model and to relay packets of data ?
+When the subnet mask 255255255240 is used for a server which of the following is a valid IP address of the server ?
+Which of the following is the signaling protocol that is widely used to initiate manage and terminate multimedia communication sessions such as voice and video calls over the Internet ?
+Which of the following is a security feature that can allow network administrators to specify exactly which stations should have access to the wireless network ?
+Which of the following can be achieved by receiving mail text and its hash value from the sender and comparing the hash value with the one calculated from the mail text by the receiver ?
+When the judgment threshold is changed in a biometric authentication system which of the following shows the relationship between FRR False Rejection Rate and FAR False Acceptance Rate ?
+As shown in the figure an application on a client has access to the database on a server via a pair of database connection programs  Which of the following is the appropriate measure for preventing the data transmitted and received between the database connection programs from being wiretapped on a communication line ?
+Which of the following sends a program incorporating fraudulent functions such as destruction and falsification of data for installation and execution ?
+A Web server was invaded from the outside and its contents were falsified  Which of the following is the appropriate sequence of subsequent activities ?
+Which of the following systems is the most suitable for a design using a state transition diagram ?
+Which of the following appropriately describes efficiency that is one of six software quality characteristics defined in ISOIEC 91261 ?
+Which of the following is an example of the relationship between the base class and the subclass in object orientation ?
+Which of the following is the appropriate purpose of regression test ?
+Which of the following is the appropriate description concerning standardization in programming ?
+The test data about the part of a program shown in the flowchart is specified by decision condition coverage branch coverage  If this test data is specified by multiple condition coverage which of the following is the appropriate data to add ?
+The number of remaining bugs in software is estimated by bugembedding method The number of captured bugs by testing is 48  The number of bugs found by testing is 16 out of 22 embedded bugs  How many bugs are estimated to be still hidden ?
+Which of the following is the model that can be used to guide process improvement and to assess the capability level and the maturity level of a project a division or an entire organization ?
+The table below shows the series of activities for a certain project  The numbers in the table indicate the cost of each activity and how long in weeks it takes to complete each activity  Prior to starting each activity the previous activities shown in the table must be completed  When the weekly cost of the project is minimized without delay of the project what is the highest weekly cost in dollars during this project ?
+The execution plan for the system development project is prepared and the critical path is obtained  Which of the following is the activity that can be understood by means of the critical path ?
+Which of the following appropriately describes the purpose of using WBS Work Breakdown Structure in software development ?
+Which of the following is an appropriate characteristic of a Gantt chart used in progress control ?
+When the four roles change control administrator configuration administrator maintenance administrator and maintenance staff are defined in software maintenance organizations which of the following persons should be primarily responsible for providing mechanisms for identifying controlling and tracking versions of software components ?
+The membership registration process in company A issues IDs in the format defined below  The table shows the transition of the number of issued IDs at the end of each fiscal year  On the assumption that this tendency continues in years to come when are the IDs in this format expected to be exhausted ?
+Which of the following is the primary objective of conducting a system migration test ?
+Among the functions provided by client management tools which of the following is the most effective function for confirming that no software unrelated to the business operations is installed ?
+Which of the following is the purpose of periodically reorganizing a database in operation ?
+Which of the following is an appropriate description concerning the role of a system auditor ?
+When IT controls are classified into the two categories of preventive control and detective control which of the following falls into the category of detective control for discovering data entry errors or unauthorized actions ?
+Which of the following is an explanation of EA Enterprise Architecture ?
+The diagram below shows the procedure for business improvement in six steps   When activities a through d are to be inserted into the blank boxes A through D which of the following is the activity inserted in the blank box C ?
+A scoring model is a method for quantifying qualitative evaluation items  Based on the fourlevel scoring model and evaluation items shown in the table below which of the following indicates the goal achievement level of the entire system in percentage ?
+Which of the following is a document that asks to provide the information necessary for the preparation of a document that asks for proposals ?
+Which of the following is an advantage of MA ?
+Which of the following describes the characteristics of niche strategy in the context of competitive strategy ?
+Which of the following is not an appropriate usage for embedded systems ?
+Which of the following is B to C in electronic commerce ?
+In an arrow diagram shown below at least how many days are needed to complete all the activities A through J ?
+When the fixed order quantity model can be used for controlling inventory under the following conditions what is the Economic Order Quantity EOQ ?
+units  Ordering cost per order       10  Annual holding cost per unit   02    a 250 b 500 c 1000  d 2000   A 5 B 2 D3E 2C 6 G 2 F 4 H 2J3I 2  33 Q78 The sales staff at Company A wants to depart from Company A visit customer companies B C and D once respectively and return to Company A  The table shows time required to move from one company to another  How long is the shortest time in minutes required for the visit ?
+Which of the following appropriately explains patent right according to the WTOs Agreement on TradeRelated Aspects of Intellectual Property Rights TRIPS ?
+Which of the following is the appropriate description concerning the CSV data format ?
